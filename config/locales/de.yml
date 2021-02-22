@@ -923,7 +923,7 @@ de:
         create_foodcoop_transaction: Erstelle einen Transaktion mit der der invertieten Summe für die Foodcoop (für den Fall der "doppelte Buchführung")
         new_ordergroup: Weitere Bestellgruppe hinzufügen
         save: Transaktionen speichern
-        set_balance: Setze den Kontostand der Bestellgrupppe auf den eingegebenen Betrag.
+        set_balance: Setze den Kontostand der Bestellgruppe auf den eingegebenen Betrag.
         sidebar: Hier kannst Du mehrere Konten gleichzeitig aktualsieren. Z.B. alle Überweisungen der Bestellgruppen aus einem Kontoauszug.
         title: Mehrere Konten aktualisieren
       ordergroup:
